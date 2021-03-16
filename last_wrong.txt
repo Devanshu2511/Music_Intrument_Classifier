@@ -1,0 +1,9 @@
+final_data\data\mandolin\mandolin_G6_very-long_piano_normal.mp3 truly 1 classified 3
+final_data\data\mandolin\mandolin_Gs4_very-long_forte_tremolo.mp3 truly 1 classified 3
+final_data\data\mandolin\mandolin_F4_very-long_piano_normal.mp3 truly 1 classified 3
+final_data\data\mandolin\mandolin_C6_very-long_piano_tremolo.mp3 truly 1 classified 3
+final_data\data\mandolin\mandolin_Fs6_very-long_piano_normal.mp3 truly 1 classified 3
+final_data\data\mandolin\mandolin_G6_very-long_piano_tremolo.mp3 truly 1 classified 3
+final_data\data\guitar\guitar_Fs3_very-long_forte_normal.mp3 truly 2 classified 3
+final_data\data\mandolin\mandolin_Cs6_very-long_piano_normal.mp3 truly 1 classified 3
+final_data\data\mandolin\mandolin_C5_very-long_piano_normal.mp3 truly 1 classified 3
